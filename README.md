@@ -1,6 +1,6 @@
 ![new excel](https://github.com/user-attachments/assets/2bc420b9-28a2-4b7a-b6f2-0c109d3a3225)
 
-#  Banking : Dynamic Risk Profiling and Performance Analysis in Consumer Lending
+#  Banking : Dynamic Risk Profiling and Performance Analysis in Consumer Lending.
 ### Dashboard Link - https://docs.google.com/spreadsheets/d/1vKOkemIvtCOsYCbxPqb4HZE1btg7n04W/edit?usp=sharing&ouid=102830937244291238750&rtpof=true&sd=true
 
 ## 1. Industry Context
